@@ -82,7 +82,7 @@ require (
 	github.com/jpillora/backoff v0.0.0-20170918002102-8eab2debe79d
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/miekg/coredns v0.0.0-20161111164017-20e25559d5ea
-	github.com/miekg/dns v1.1.16
+	github.com/miekg/dns v1.1.25
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
